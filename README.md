@@ -11,8 +11,8 @@
 - # Dataset
 - **DermNet** dataset (Kaggle) containing dermatological images across multiple skin disease categories.  
 - Preprocessed to handle class imbalance, noise, and visual similarity.
-- 
+  
 # Results
 - Highest accuracy: Vision Transformer (73%)
 - Supports 6-class classification
-- 
+  
